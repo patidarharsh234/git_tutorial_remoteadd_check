@@ -1,1 +1,2 @@
 push this file on git hub directly vs code and using remote address to fech or push the data.
+after remote se add kr ke origin ko or origin bhi ak name he jo hamne diya he " git remote add origin https://github.com/patidarharsh234/git_tutorial_remoteadd_check.git" es command ko de kr without clone kiye repo ko and without readme file. 
