@@ -1,4 +1,4 @@
-# made by manuly by me create folder Readme.md .
+# made by manuly by me create folder readme.md .
 
 ## you write any this like instruction or flow of project.
 
